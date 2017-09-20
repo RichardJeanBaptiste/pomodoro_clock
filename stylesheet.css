@@ -1,0 +1,25 @@
+.mid-size-circle{
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	background-color: white;
+	border-style: solid;
+}
+
+.large-size-circle{
+	height: 320px;
+	width: 320px;
+	border-radius: 50%;
+	background-color: white;
+	border-style: solid;
+}
+
+body {
+	background-color: grey;
+	margin-top: 5%;
+	margin-left: 30%
+} 
+
+.position {
+	margin-left: 30px;
+}
